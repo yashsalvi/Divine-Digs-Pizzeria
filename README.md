@@ -20,7 +20,9 @@ using Sass and Laravel mix.
 To run this project, install the following:
 
 ```
-
+$ Install Node.js,MongoDB.
+$ npm install
+$ npm start
 ```
 
 ## Visuals
