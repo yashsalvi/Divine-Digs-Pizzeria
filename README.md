@@ -26,5 +26,8 @@ $ npm start
 ```
 
 ## Visuals
+
+1.HomePage
 ![Real-time-app](https://github.com/yashsalvi/Divine-Digs-Pizzeria/blob/master/screenshots/Main%20page.png)
 
+![Real-time-app](https://github.com/yashsalvi/Divine-Digs-Pizzeria/blob/master/screenshots/Add%20to%20cart.png)
