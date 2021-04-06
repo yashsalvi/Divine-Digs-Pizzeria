@@ -58,7 +58,6 @@ function authController() {
                 return res.redirect('/register')
              }
          })
-
          // Hash password 
          const hashedPassword = await bcrypt.hash(password, 10)
          // Create a user 
