@@ -74,7 +74,6 @@ const server = app.listen(PORT , () => {
         })
 
 // Socket
-
 const io = require('socket.io')(server)
 io.on('connection', (socket) => {
       // Join
